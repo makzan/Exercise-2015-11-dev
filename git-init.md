@@ -18,7 +18,7 @@ This creates a `.git` folder in the current directory. And from now on, you can 
 2. Running `git init --bare` means creating a remote git repository.
 3. Usually we name the director of bare repo `something.git`, with the `.git` extension althrough it is a directory.
 
-## Further reading
+## Further Reading
 
 - [Git add documentation](https://www.kernel.org/pub/software/scm/git/docs/git-init.html)
 - [Tutorial on git init bare](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-init)
