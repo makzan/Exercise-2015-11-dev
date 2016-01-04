@@ -11,6 +11,7 @@ You can find code snippets of essential git commands in the following:
 - [Git reset](git-reset.md) / [Git Reflog](git-reflog.md)
 - [Git installation](git-install.md)
 - [Git rebase](git-remote.md)
+- [Git merge](git-merge.md)/[Merge Conflict](Merge_Conflict.md)
 
 
 In each git command document, you can find the following sections:

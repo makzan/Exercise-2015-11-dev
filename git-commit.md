@@ -12,6 +12,12 @@ Git add all files and commit with message "Another commit"
 
 - git commit -am "Another commit"
 
+##Tips & tricks
+
+- Commit message should describe what's changed
+
+- Each commit should only for one purpose 
+
 ##Reference
 
 [Git Reference](http://git-scm.com/docs/git-commit)
