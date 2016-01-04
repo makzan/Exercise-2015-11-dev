@@ -54,3 +54,7 @@ We can get this using the following command:
 
 git rebase --onto master next topic
 
+
+##Rerference
+[Git Reference](http://git-scm.com/docs/git-rebase)
+[Github](https://help.github.com/articles/about-git-rebase/)
