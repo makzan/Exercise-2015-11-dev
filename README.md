@@ -10,6 +10,9 @@ You can find code snippets of essential git commands in the following:
 - [Git remote](git-remote.md) / [Git push](git-push.md) / [Git fetch](git-fetch.md) / [Git pull](git-pull.md)
 - [Git reset](git-reset.md) / [Git Reflog](git-reflog.md)
 - [Git installation](git-install.md) / [Write Git Message](write-git-message.md)
+- [Git merge](git-merge.md)
+- [Merge Conflict](Merge_Conflict.md)
+>>>>>>> origin
 
 
 In each git command document, you can find the following sections:
