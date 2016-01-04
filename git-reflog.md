@@ -1,4 +1,4 @@
-# Git Reset
+# Git Reflog
 
 This is a short introduction of Git reflog:
 
