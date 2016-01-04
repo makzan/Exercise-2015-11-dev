@@ -10,4 +10,4 @@ After we created different branches, we need git merge to merge the current bran
 It’s result is a recursive merge. That happens when we merge 2 branches that has a different commits history.
 
 ##Reference
-[Git Reference](http://git-sim.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging#Basic-Merging)
+[Git Reference](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging#Basic-Merging)
