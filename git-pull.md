@@ -1,4 +1,4 @@
-git-pull
+﻿git-pull
 
 DESCRIPTION
 git-pull = git fetch + git merge
@@ -22,6 +22,6 @@ A---B---C origin/master
 
 SYNOPSIS
 
-git pull [options] [<repository> [<refspec>�K?]]
+git pull [options] [<repository> [<refspec>…?]]
 
 More introduction, please visit https://git-scm.com/docs/git-pull
