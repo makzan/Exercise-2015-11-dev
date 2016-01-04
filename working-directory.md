@@ -25,6 +25,7 @@ In order for Git to start tracking any file changed, the file needs to be added 
 #### Examples
 We can add a file to the staging area with:
 * git add readme.txt
+<br />
 We can add all files to the staging area with:
 * git add .
 
