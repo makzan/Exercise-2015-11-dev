@@ -1,0 +1,6 @@
+git remote
+
+DESCRIPTION
+Manage the set of repositories ("remotes") whose branches you track.
+
+
