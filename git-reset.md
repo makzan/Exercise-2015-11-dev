@@ -25,9 +25,3 @@ Be careful to use --hard mode:
 
 ##Reference
 [ProGit - Reset](http://git-scm.com/2011/07/11/reset.html)
-
-
-
- 
-
-
