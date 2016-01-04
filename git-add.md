@@ -2,7 +2,7 @@
 
 Mark the files to be version controlled.
 
-#Examples
+##Examples
 
 Mark the file index.html
 
@@ -14,8 +14,8 @@ Mark all files in current directory
 
 Mark all txt files under "Subfolder" and its sub-directories
 
-- git add Subfolder/\*.txt
+- git add Subfolder/\\*.txt
 
-# Reference
+##Reference
 
 [Git Reference](http://git-scm.com/docs/git-add)
