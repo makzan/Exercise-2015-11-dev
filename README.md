@@ -10,6 +10,12 @@ You can find code snippets of essential git commands in the following:
 - [Git branch](git-branch.md) / [Git flow](git-flow.md)
 - [Git remote](git-remote.md) / [Git push](git-push.md) / [Git fetch](git-fetch.md) / [Git pull](git-pull.md)
 - [Git reset](git-reset.md) / [Git Reflog](git-reflog.md)
+- [Git installation](git-install.md)
+- [Git rebase](git-remote.md)
+- [Git merge](git-merge.md)/[Merge Conflict](Merge_Conflict.md)
+- [Git installation](git-install.md) / [Write Git Message](write-git-message.md)
+- [Git merge](git-merge.md)
+- [Merge Conflict](Merge_Conflict.md)
 
 
 In each git command document, you can find the following sections:
@@ -57,7 +63,7 @@ This is an exercise for Git course.
 - @makzan: Git init
 - @barrychow: Git reset / Git Reflog
 - @SamuelNWK: Git status and Working Directory
-- @JackyMO: Git rebase
+- @JackyMO: [Git rebase](git-rebase.md)
 - @dillyhk, @chrislao: Git remote / Git push / Git fetch / Git pull
 - @marble0039: Git merge / Manage conflict
 - @vanlmlam: Git branch / Git flow
