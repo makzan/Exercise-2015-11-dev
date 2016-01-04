@@ -10,7 +10,7 @@ git init
 
 This creates a `.git` folder in the current directory. And from now on, you can use all the git command in this directory.
 
-## Notes and Tips
+## Notes
 
 1. Calling `git init` on a git-tracking directory has no effects.
     > Running git init in an existing repository is safe. It will not overwrite things that are already there. The primary reason for rerunning git init is to pick up newly added templates (or to move the repository to another place if --separate-git-dir is given).
