@@ -21,7 +21,8 @@ $ git reset --hard HEAD~2
 
 ##Notes
 Be careful to use --hard mode: 
-#ANY non-committed content in Working copy will be overridded!!
-
+  -#ANY non-committed content in Working copy will be overridded!!
+  -Related commands [git-reflog](git-reflog.md). 
+  
 ##Reference
 [ProGit - Reset](http://git-scm.com/2011/07/11/reset.html)
