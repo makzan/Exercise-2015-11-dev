@@ -4,6 +4,7 @@ This is a short introduction of Git.
 
 You can find code snippets of essential git commands in the following:
 
+- [Git init](git-init.md)
 - [Git add](git-add.md) / [Git commit](git-commit.md)
 - [Git status and Worknig Directory](working-directory.md)
 - [Git branch](git-branch.md) / [Git flow](git-flow.md)
@@ -32,6 +33,7 @@ This is an exercise for Git course.
 
 ## To-do
 
+- [x] Git init
 - [ ] Git add
 - [ ] Git commit
 - [ ] Git status and Working Directory
@@ -52,6 +54,7 @@ This is an exercise for Git course.
 
 ## Members and Credits
 
+- @makzan: Git init
 - @barrychow: Git reset / Git Reflog
 - @SamuelNWK: Git status and Working Directory
 - @JackyMO: Git rebase
