@@ -1,10 +1,10 @@
 # Git Rebase
 
-Description
+##Description
 
 The git rebase can allows you to modify commits to updated upstream head. You can also reorder, edit, or squash commits together.
 
-Example
+##Example
 
 example 1:
 Assume the following history exists and the current branch is "topic":
