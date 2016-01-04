@@ -1,9 +1,11 @@
 # Git branch
 
 Create a branch
+
 	$ git branch <branchname>
 
 Change the branch
+
 	$ git checkout <branchname>
 
 
