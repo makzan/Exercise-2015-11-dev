@@ -11,15 +11,15 @@ according to 3 modes of #RESET : soft, mixed, hard
 
 # Example
 $ git reset <file>
-It will reset the Repo as last commit, but in staged area and working dir it reamins unchange
+- It will reset the Repo as last commit, but in staged area and working dir it reamins unchange
 
 $ git reset --soft 
-All the files will go back to last commit even in staged area
+- All the files will go back to last commit even in staged area
 
 $ git reset --hard HEAD~2
-it will go back to last 2 commit, even ##IN Working copy
+- it will go back to last 2 commit, even IN Working copy
 
-## Notes
+##Notes
 Be careful to use --hard mode: 
 #ANY non-committed content in Working copy will be overridded!!
 
