@@ -58,7 +58,7 @@ A commit is the last step in our Git workflow. A commit permanently stores chang
 
 #### Examples
 git commit is the command we'll do next. However, one more bit of code is needed for a commit: the option -m followed by a message. Here's an example:
-git commit -m "Complete first line of readme.txt"
+* git commit -m "Complete first line of readme.txt"
 
 After commit all changes, check the status of the project in Git. From the terminal, nothing to commit.
 
