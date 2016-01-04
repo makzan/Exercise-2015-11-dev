@@ -12,6 +12,9 @@ You can find code snippets of essential git commands in the following:
 - [Git installation](git-install.md)
 - [Git rebase](git-remote.md)
 - [Git merge](git-merge.md)/[Merge Conflict](Merge_Conflict.md)
+- [Git installation](git-install.md) / [Write Git Message](write-git-message.md)
+- [Git merge](git-merge.md)
+- [Merge Conflict](Merge_Conflict.md)
 
 
 In each git command document, you can find the following sections:
